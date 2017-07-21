@@ -1,0 +1,6 @@
+EN = "Zika could end up costing Latin America and the Caribbean up to $18 billion, UN reports finds"
+ES = "El coste del Zika en América Latina podría alcanzar los 18.000 millones de dólares"
+FR = "Le coût socio-économique de Zika pourrait s'élever à 18 milliards de dollars en Amérique latine et dans les Caraïbes"
+RU = "Эпидемия Зики ведет к огромным экономическим потерям"
+AR = "تقرير أممي: تكلفة فيروس زيكا على بلدان الأميركتين تتراوح بين 7 و18 مليار دولار"
+ZHCN = "寨卡病毒对拉美和加勒比地区造成的社会经济成本在三年内可达180亿美元"
